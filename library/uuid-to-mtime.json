@@ -219,99 +219,109 @@
     "meta": 1482377306878,
     "relativePath": "prefab\\webview.prefab"
   },
+  "c7d2f611-697d-4fc6-a4bd-6006f8537d7b": {
+    "asset": 1482455245901,
+    "meta": 1482455263115,
+    "relativePath": "Main Menu"
+  },
+  "58a8a715-f460-4109-88b5-ec7aab5fd0bc": {
+    "asset": 1482455207822,
+    "meta": 1482455263119,
+    "relativePath": "Template"
+  },
   "8f32b26a-6446-43a5-893b-e476e6a29b9b": {
-    "asset": 1482452635777,
-    "meta": 1482452686976,
-    "relativePath": "audio"
+    "asset": 1482455207812,
+    "meta": 1482455245940,
+    "relativePath": "Template\\audio"
+  },
+  "51b0ea7f-a166-4130-bf0b-7f70fc60cb1d": {
+    "asset": 1482455215277,
+    "meta": 1482455245943,
+    "relativePath": "Template\\scripts"
+  },
+  "f2bd42d3-db89-4efd-b925-6233e5f0d525": {
+    "asset": 1482455207837,
+    "meta": 1482455246136,
+    "relativePath": "Template\\textures"
   },
   "eb514f5f-4725-41b8-9568-2643e4af2871": {
     "asset": 1482377266376,
     "meta": 1482377266386,
-    "relativePath": "audio\\jump.mp3"
+    "relativePath": "Template\\audio\\jump.mp3"
   },
   "5e9fa9a1-c6a0-4fcb-9cab-8bf22d49c771": {
     "asset": 1482377266398,
     "meta": 1482377266407,
-    "relativePath": "audio\\score.mp3"
-  },
-  "5dcd99cb-77a4-4c95-a7d8-4b5b45295ae5": {
-    "asset": 1482378061823,
-    "meta": 1482378061832,
-    "relativePath": "game.fire"
-  },
-  "51b0ea7f-a166-4130-bf0b-7f70fc60cb1d": {
-    "asset": 1482452635784,
-    "meta": 1482452686977,
-    "relativePath": "scripts"
-  },
-  "4e12f2d2-42ed-4bf8-a57a-426c4389abd4": {
-    "asset": 1482378560429,
-    "meta": 1482378560550,
-    "relativePath": "scripts\\Game.js"
-  },
-  "6c688bfb-d907-4e29-a982-1824fec5a01d": {
-    "asset": 1482377266471,
-    "meta": 1482377307486,
-    "relativePath": "scripts\\Player.js"
-  },
-  "4644fd26-d96b-4005-8472-fa99fa74e686": {
-    "asset": 1482377901645,
-    "meta": 1482377901689,
-    "relativePath": "scripts\\Star.js"
-  },
-  "f2bd42d3-db89-4efd-b925-6233e5f0d525": {
-    "asset": 1482452635800,
-    "meta": 1482452686978,
-    "relativePath": "textures"
-  },
-  "3ccd5b0c-fd42-4360-8b3d-30e9cd933e6d": {
-    "asset": 1482377968040,
-    "meta": 1482377968057,
-    "relativePath": "Star.prefab"
-  },
-  "a19f2dcf-0f50-4268-b3a0-bbdc1492fb16": {
-    "asset": 1482377266554,
-    "meta": 1482377307516,
-    "relativePath": "textures\\ground.png"
-  },
-  "58b3a98d-fb96-461f-9e82-8d1f79931f25": {
-    "asset": 1482377266521,
-    "meta": 1482377307521,
-    "relativePath": "textures\\background.jpg"
-  },
-  "928494be-49d2-4a61-b99a-fa4280fc5c3e": {
-    "asset": 1482377266571,
-    "meta": 1482377307530,
-    "relativePath": "textures\\PurpleMonster.png"
-  },
-  "c7e7f505-0e8f-4e9e-bd0f-e728f8fad8e8": {
-    "asset": 1482377266588,
-    "meta": 1482377307544,
-    "relativePath": "textures\\star.png"
-  },
-  "52aaddaf-85e6-4d64-a080-d95682f06887": {
-    "asset": 1482452578254,
-    "meta": 1482452578276,
-    "relativePath": "Start.fire"
-  },
-  "b6382e3e-33f6-4396-9870-5e5281c0b7e6": {
-    "asset": 1482379050944,
-    "meta": 1482379054855,
-    "relativePath": "textures\\btn_play2.png"
-  },
-  "07d60076-0f0c-46be-a3da-aa9fe87d604b": {
-    "asset": 1482379019326,
-    "meta": 1482379054859,
-    "relativePath": "textures\\btn_play.png"
-  },
-  "fd2ebeb8-1fcb-4ad6-960e-288f67ea6ecd": {
-    "asset": 1482379198400,
-    "meta": 1482379200579,
-    "relativePath": "textures\\btn_play1.png"
+    "relativePath": "Template\\audio\\score.mp3"
   },
   "9609ed90-8d69-4f9f-9334-55ea3a6d0e8c": {
     "asset": 1482379616694,
-    "meta": 1482379616721,
-    "relativePath": "scripts\\buttonpress.js"
+    "meta": 1482455245988,
+    "relativePath": "Template\\scripts\\buttonpress.js"
+  },
+  "4e12f2d2-42ed-4bf8-a57a-426c4389abd4": {
+    "asset": 1482378560429,
+    "meta": 1482455246068,
+    "relativePath": "Template\\scripts\\Game.js"
+  },
+  "5dcd99cb-77a4-4c95-a7d8-4b5b45295ae5": {
+    "asset": 1482378061823,
+    "meta": 1482455246105,
+    "relativePath": "Template\\game.fire"
+  },
+  "6c688bfb-d907-4e29-a982-1824fec5a01d": {
+    "asset": 1482377266471,
+    "meta": 1482455246122,
+    "relativePath": "Template\\scripts\\Player.js"
+  },
+  "4644fd26-d96b-4005-8472-fa99fa74e686": {
+    "asset": 1482377901645,
+    "meta": 1482455246124,
+    "relativePath": "Template\\scripts\\Star.js"
+  },
+  "3ccd5b0c-fd42-4360-8b3d-30e9cd933e6d": {
+    "asset": 1482377968040,
+    "meta": 1482455246133,
+    "relativePath": "Template\\Star.prefab"
+  },
+  "52aaddaf-85e6-4d64-a080-d95682f06887": {
+    "asset": 1482452578254,
+    "meta": 1482455246134,
+    "relativePath": "Template\\Start.fire"
+  },
+  "07d60076-0f0c-46be-a3da-aa9fe87d604b": {
+    "asset": 1482379019326,
+    "meta": 1482455246150,
+    "relativePath": "Template\\textures\\btn_play.png"
+  },
+  "fd2ebeb8-1fcb-4ad6-960e-288f67ea6ecd": {
+    "asset": 1482379198400,
+    "meta": 1482455246157,
+    "relativePath": "Template\\textures\\btn_play1.png"
+  },
+  "b6382e3e-33f6-4396-9870-5e5281c0b7e6": {
+    "asset": 1482379050944,
+    "meta": 1482455246168,
+    "relativePath": "Template\\textures\\btn_play2.png"
+  },
+  "58b3a98d-fb96-461f-9e82-8d1f79931f25": {
+    "asset": 1482377266521,
+    "meta": 1482455246170,
+    "relativePath": "Template\\textures\\background.jpg"
+  },
+  "928494be-49d2-4a61-b99a-fa4280fc5c3e": {
+    "asset": 1482377266571,
+    "meta": 1482455246179,
+    "relativePath": "Template\\textures\\PurpleMonster.png"
+  },
+  "a19f2dcf-0f50-4268-b3a0-bbdc1492fb16": {
+    "asset": 1482377266554,
+    "meta": 1482455246184,
+    "relativePath": "Template\\textures\\ground.png"
+  },
+  "c7e7f505-0e8f-4e9e-bd0f-e728f8fad8e8": {
+    "asset": 1482377266588,
+    "meta": 1482455246205,
+    "relativePath": "Template\\textures\\star.png"
   }
 }

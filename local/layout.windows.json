@@ -2,10 +2,10 @@
   "version": "1.1.0",
   "windows": {
     "main": {
-      "x": 988,
-      "y": 556,
-      "width": 1280,
-      "height": 720,
+      "x": -8,
+      "y": -8,
+      "width": 2572,
+      "height": 1416,
       "layout": {
         "children": [
           {

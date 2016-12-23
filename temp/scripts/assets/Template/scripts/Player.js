@@ -1,6 +1,6 @@
 "use strict";
 cc._RFpush(module, '6c688v72QdOKamCGCT+xaAd', 'Player');
-// scripts\Player.js
+// Template\scripts\Player.js
 
 cc.Class({
     "extends": cc.Component,

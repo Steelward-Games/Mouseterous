@@ -1,6 +1,6 @@
 "use strict";
 cc._RFpush(module, '9609e2QjWlPn5M0Veo6bQ6M', 'buttonpress');
-// scripts\buttonpress.js
+// Template\scripts\buttonpress.js
 
 cc.Class({
     'extends': cc.Component,

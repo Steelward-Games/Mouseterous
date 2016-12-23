@@ -1,6 +1,6 @@
 "use strict";
 cc._RFpush(module, '4644f0m2WtABYRy+pn6dOaG', 'Star');
-// scripts\Star.js
+// Template\scripts\Star.js
 
 cc.Class({
     "extends": cc.Component,
