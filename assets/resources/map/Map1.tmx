@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="12" height="8" tilewidth="100" tileheight="100" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="100" tileheight="100" tilecount="4" columns="0">
+  <tile id="0">
+   <image width="100" height="100" source="../tiles/brickBase1.jpg"/>
+  </tile>
+  <tile id="1">
+   <image width="100" height="100" source="../tiles/brickBase2.jpg"/>
+  </tile>
+  <tile id="2">
+   <image width="100" height="100" source="../tiles/dirtTile1.jpg"/>
+  </tile>
+  <tile id="3">
+   <image width="100" height="100" source="../tiles/dirtTile2.jpg"/>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="12" height="8">
+  <data encoding="csv">
+4,4,4,3,3,3,4,4,3,4,3,3,
+3,4,4,3,3,4,4,3,3,4,3,3,
+3,4,3,3,3,4,3,3,3,3,4,3,
+4,3,3,3,3,4,4,4,3,3,4,3,
+4,1,2,4,4,3,3,4,4,3,4,3,
+4,3,3,4,3,3,3,3,4,3,4,4,
+3,3,1,2,3,3,4,4,3,4,4,3,
+3,3,3,3,3,3,3,3,4,4,3,3
+</data>
+ </layer>
+</map>

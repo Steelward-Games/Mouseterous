@@ -1,12 +1,15 @@
 {
-  "start-scene": "current",
-  "group-list": [
-    "default"
-  ],
   "collision-matrix": [
     [
       true
     ]
   ],
-  "excluded-modules": []
+  "excluded-modules": [
+    "DragonBones",
+    "TiledMap"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "55d422b5-ec7b-4c3e-8c8b-664f2414af68"
 }

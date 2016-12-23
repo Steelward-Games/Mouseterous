@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<map>
+  <board>
+    <tile id ="x0y0">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x1y0">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x2y0">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x3y0">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x0y1">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x1y1">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x2y1">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x3y1">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x0y2">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x1y2">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x2y2">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x3y2">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x0y3">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x1y3">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x2y3">
+      <type>dirt</type>
+    </tile>
+    <tile id ="x3y3">
+      <type>dirt</type>
+    </tile>
+  </board>
+</map>

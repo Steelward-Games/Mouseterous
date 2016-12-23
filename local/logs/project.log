@@ -1,1554 +1,304 @@
-2016-12-23T02:53:15.307Z - normal: Load ~/.CocosCreator/settings.json
-2016-12-23T02:53:15.314Z - normal: checking language setting...
-2016-12-23T02:53:15.314Z - normal: Language: en
-2016-12-23T02:53:16.368Z - success: protocol editor-framework registered
-2016-12-23T02:53:16.368Z - success: protocol app registered
-2016-12-23T02:53:16.368Z - success: protocol packages registered
-2016-12-23T02:53:16.368Z - success: protocol theme registered
-2016-12-23T02:53:16.368Z - success: protocol unpack registerred
-2016-12-23T02:53:17.834Z - normal: connected!
-2016-12-23T02:53:17.843Z - normal: Check project C:\Users\Chris\Documents\GitHub\Mouseterous
-2016-12-23T02:53:17.850Z - normal: Initializing Cocos Creator Editor
-2016-12-23T02:53:18.292Z - normal: Initializing Cocos2d
-2016-12-23T02:53:18.600Z - normal: Initializing Asset Database
-2016-12-23T02:53:18.629Z - success: protocol uuid registerred
-2016-12-23T02:53:18.629Z - success: protocol db registerred
-2016-12-23T02:53:18.629Z - success: protocol thumbnail registerred
-2016-12-23T02:53:18.629Z - normal: Loading editor/builtin packages
-2016-12-23T02:53:18.817Z - success: assets loaded
-2016-12-23T02:53:18.821Z - success: builder loaded
-2016-12-23T02:53:18.827Z - success: hierarchy loaded
-2016-12-23T02:53:18.833Z - success: inspector loaded
-2016-12-23T02:53:18.835Z - success: keystore loaded
-2016-12-23T02:53:18.840Z - success: node-library loaded
-2016-12-23T02:53:18.852Z - success: preferences loaded
-2016-12-23T02:53:18.870Z - success: project-importer loaded
-2016-12-23T02:53:18.871Z - success: project-settings loaded
-2016-12-23T02:53:18.873Z - success: ui-kit loaded
-2016-12-23T02:53:18.875Z - success: ui-grid loaded
-2016-12-23T02:53:18.878Z - success: scene loaded
-2016-12-23T02:53:18.880Z - success: sprite-editor loaded
-2016-12-23T02:53:18.885Z - success: timeline loaded
-2016-12-23T02:53:18.885Z - normal: Loading builtin packages
-2016-12-23T02:53:18.888Z - success: asset-db-debugger loaded
-2016-12-23T02:53:18.890Z - success: code-editor loaded
-2016-12-23T02:53:18.890Z - success: color-picker loaded
-2016-12-23T02:53:18.893Z - success: console loaded
-2016-12-23T02:53:18.896Z - success: package-manager loaded
-2016-12-23T02:53:18.898Z - success: tester loaded
-2016-12-23T02:53:18.899Z - success: ui-kit-preview-extra loaded
-2016-12-23T02:53:18.900Z - success: ui-kit-preview loaded
-2016-12-23T02:53:18.901Z - success: ui-tree loaded
-2016-12-23T02:53:18.941Z - normal: Initializing project C:\Users\Chris\Documents\GitHub\Mouseterous
-2016-12-23T02:53:18.949Z - normal: Loading packages
-2016-12-23T02:53:18.954Z - normal: Watching packages
-2016-12-23T02:53:18.968Z - normal: Run Application
-2016-12-23T02:53:19.733Z - success: preview server running at http://localhost:7456
-2016-12-23T02:53:23.586Z - normal: 1.3.3
-2016-12-23T02:53:48.161Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T02:53:48.165Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T02:53:48.166Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T02:53:48.202Z - normal: Simulator: Ready for GLSL
-2016-12-23T02:53:48.202Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T02:53:48.202Z - normal: Simulator: 
-2016-12-23T02:53:48.203Z - normal: Simulator: {
-2016-12-23T02:53:48.203Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T02:53:48.206Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T02:53:48.206Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T02:53:48.206Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T02:53:48.206Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T02:53:48.207Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T02:53:48.207Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T02:53:48.207Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T02:53:48.207Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T02:53:48.207Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T02:53:48.208Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T02:53:48.208Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T02:53:48.209Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T02:53:48.209Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T02:53:48.209Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T02:53:48.209Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T02:53:48.209Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T02:53:48.223Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T02:53:48.224Z - normal: Simulator: }
-2016-12-23T02:53:48.224Z - normal: Simulator: 
-2016-12-23T02:53:48.224Z - normal: Simulator: 
-2016-12-23T02:53:48.224Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T02:53:48.225Z - normal: Simulator: Project Config:
-2016-12-23T02:53:48.225Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T02:53:48.225Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T02:53:48.225Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T02:53:48.225Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T02:53:48.226Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T02:53:48.226Z - normal: Simulator:     show console: NO
-2016-12-23T02:53:48.226Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T02:53:48.226Z - normal: Simulator:     listen: 
-2016-12-23T02:53:48.226Z - normal: Simulator:     debugger: none
-2016-12-23T02:53:48.227Z - normal: Simulator:     add searching path:
-2016-12-23T02:53:48.227Z - normal: Simulator: 
-2016-12-23T02:53:48.227Z - normal: Simulator: 
-2016-12-23T02:53:48.227Z - normal: Simulator: 
-2016-12-23T02:53:48.227Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:53:48.228Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T02:53:48.228Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:53:48.580Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T02:53:48.631Z - normal: Simulator: iShow!
-2016-12-23T02:53:48.775Z - error: Simulator: 133:ReferenceError: setOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T02:53:48.775Z - normal: Simulator: 
-2016-12-23T02:53:51.512Z - normal: Simulator: basic_object_finalize 063315E0 ...
-2016-12-23T02:53:51.512Z - normal: Simulator: jsbindings: finalizing JS object 06331600 (WebSocket)
-2016-12-23T02:53:51.513Z - normal: Simulator: jsbindings: finalizing JS object 06331620 (SocketIO)
-2016-12-23T02:57:53.783Z - normal: Compiled successfully
-2016-12-23T02:57:55.090Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T02:57:55.091Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T02:57:55.091Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T02:57:55.146Z - normal: Simulator: Ready for GLSL
-2016-12-23T02:57:55.146Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T02:57:55.146Z - normal: Simulator: 
-2016-12-23T02:57:55.146Z - normal: Simulator: {
-2016-12-23T02:57:55.147Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T02:57:55.147Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T02:57:55.147Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T02:57:55.148Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T02:57:55.148Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T02:57:55.148Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T02:57:55.148Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T02:57:55.149Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T02:57:55.149Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T02:57:55.149Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T02:57:55.149Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T02:57:55.149Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T02:57:55.150Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T02:57:55.150Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T02:57:55.150Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T02:57:55.150Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T02:57:55.151Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T02:57:55.151Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T02:57:55.151Z - normal: Simulator: }
-2016-12-23T02:57:55.151Z - normal: Simulator: 
-2016-12-23T02:57:55.152Z - normal: Simulator: 
-2016-12-23T02:57:55.152Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T02:57:55.152Z - normal: Simulator: Project Config:
-2016-12-23T02:57:55.153Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T02:57:55.153Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T02:57:55.154Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T02:57:55.154Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T02:57:55.154Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T02:57:55.154Z - normal: Simulator:     show console: NO
-2016-12-23T02:57:55.154Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T02:57:55.155Z - normal: Simulator:     listen: 
-2016-12-23T02:57:55.155Z - normal: Simulator:     debugger: none
-2016-12-23T02:57:55.155Z - normal: Simulator:     add searching path:
-2016-12-23T02:57:55.155Z - normal: Simulator: 
-2016-12-23T02:57:55.155Z - normal: Simulator: 
-2016-12-23T02:57:55.160Z - normal: Simulator: 
-2016-12-23T02:57:55.160Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:57:55.160Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T02:57:55.160Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:57:55.524Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T02:57:55.575Z - normal: Simulator: iShow!
-2016-12-23T02:57:55.709Z - error: Simulator: 129:ReferenceError: setOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T02:57:55.710Z - normal: Simulator: 
-2016-12-23T02:58:06.100Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T02:58:06.101Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T02:58:06.101Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
-2016-12-23T02:58:39.320Z - normal: Compiled successfully
-2016-12-23T02:58:41.899Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T02:58:41.900Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T02:58:41.900Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T02:58:41.966Z - normal: Simulator: Ready for GLSL
-2016-12-23T02:58:41.966Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T02:58:41.966Z - normal: Simulator: 
-2016-12-23T02:58:41.967Z - normal: Simulator: {
-2016-12-23T02:58:41.967Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T02:58:41.967Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T02:58:41.967Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T02:58:41.968Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T02:58:41.968Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T02:58:41.969Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T02:58:41.969Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T02:58:41.969Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T02:58:41.969Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T02:58:41.969Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T02:58:41.969Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T02:58:41.969Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T02:58:41.970Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T02:58:41.970Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T02:58:41.970Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T02:58:41.970Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T02:58:41.970Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T02:58:41.970Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T02:58:41.970Z - normal: Simulator: }
-2016-12-23T02:58:41.971Z - normal: Simulator: 
-2016-12-23T02:58:41.971Z - normal: Simulator: 
-2016-12-23T02:58:41.971Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T02:58:41.971Z - normal: Simulator: Project Config:
-2016-12-23T02:58:41.971Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T02:58:41.972Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T02:58:41.972Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T02:58:41.972Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T02:58:41.972Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T02:58:41.972Z - normal: Simulator:     show console: NO
-2016-12-23T02:58:41.973Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T02:58:41.973Z - normal: Simulator:     listen: 
-2016-12-23T02:58:41.973Z - normal: Simulator:     debugger: none
-2016-12-23T02:58:41.978Z - normal: Simulator:     add searching path:
-2016-12-23T02:58:41.978Z - normal: Simulator: 
-2016-12-23T02:58:41.979Z - normal: Simulator: 
-2016-12-23T02:58:41.979Z - normal: Simulator: 
-2016-12-23T02:58:41.979Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:58:41.979Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T02:58:41.979Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:58:42.355Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T02:58:42.409Z - normal: Simulator: iShow!
-2016-12-23T02:58:42.556Z - error: Simulator: 129:ReferenceError: setOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T02:58:42.556Z - normal: Simulator: 
-2016-12-23T02:58:53.028Z - normal: Compiled successfully
-2016-12-23T02:58:55.140Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T02:58:55.141Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T02:58:55.141Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T02:58:55.187Z - normal: Simulator: Ready for GLSL
-2016-12-23T02:58:55.187Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T02:58:55.205Z - normal: Simulator: 
-2016-12-23T02:58:55.205Z - normal: Simulator: {
-2016-12-23T02:58:55.205Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T02:58:55.206Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T02:58:55.206Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T02:58:55.206Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T02:58:55.206Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T02:58:55.207Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T02:58:55.207Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T02:58:55.207Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T02:58:55.207Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T02:58:55.208Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T02:58:55.208Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T02:58:55.209Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T02:58:55.209Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T02:58:55.210Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T02:58:55.210Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T02:58:55.211Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T02:58:55.211Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T02:58:55.211Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T02:58:55.215Z - normal: Simulator: }
-2016-12-23T02:58:55.216Z - normal: Simulator: 
-2016-12-23T02:58:55.216Z - normal: Simulator: 
-2016-12-23T02:58:55.217Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T02:58:55.217Z - normal: Simulator: Project Config:
-2016-12-23T02:58:55.217Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T02:58:55.217Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T02:58:55.217Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T02:58:55.218Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T02:58:55.218Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T02:58:55.218Z - normal: Simulator:     show console: NO
-2016-12-23T02:58:55.218Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T02:58:55.218Z - normal: Simulator:     listen: 
-2016-12-23T02:58:55.218Z - normal: Simulator:     debugger: none
-2016-12-23T02:58:55.219Z - normal: Simulator:     add searching path:
-2016-12-23T02:58:55.219Z - normal: Simulator: 
-2016-12-23T02:58:55.219Z - normal: Simulator: 
-2016-12-23T02:58:55.219Z - normal: Simulator: 
-2016-12-23T02:58:55.219Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:58:55.219Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T02:58:55.219Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:58:55.566Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T02:58:55.620Z - normal: Simulator: iShow!
-2016-12-23T02:58:55.757Z - error: Simulator: 129:ReferenceError: setOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T02:58:55.757Z - normal: Simulator: 
-2016-12-23T02:59:08.417Z - normal: Compiled successfully
-2016-12-23T02:59:09.545Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T02:59:09.545Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T02:59:09.545Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T02:59:09.605Z - normal: Simulator: Ready for GLSL
-2016-12-23T02:59:09.609Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T02:59:09.610Z - normal: Simulator: 
-2016-12-23T02:59:09.611Z - normal: Simulator: {
-2016-12-23T02:59:09.611Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T02:59:09.611Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T02:59:09.612Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T02:59:09.612Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T02:59:09.612Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T02:59:09.612Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T02:59:09.613Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T02:59:09.613Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T02:59:09.614Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T02:59:09.615Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T02:59:09.615Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T02:59:09.616Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T02:59:09.616Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T02:59:09.616Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T02:59:09.616Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T02:59:09.616Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T02:59:09.616Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T02:59:09.617Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T02:59:09.617Z - normal: Simulator: }
-2016-12-23T02:59:09.617Z - normal: Simulator: 
-2016-12-23T02:59:09.617Z - normal: Simulator: 
-2016-12-23T02:59:09.617Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T02:59:09.617Z - normal: Simulator: Project Config:
-2016-12-23T02:59:09.618Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T02:59:09.618Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T02:59:09.618Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T02:59:09.618Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T02:59:09.618Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T02:59:09.619Z - normal: Simulator:     show console: NO
-2016-12-23T02:59:09.619Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T02:59:09.619Z - normal: Simulator:     listen: 
-2016-12-23T02:59:09.619Z - normal: Simulator:     debugger: none
-2016-12-23T02:59:09.619Z - normal: Simulator:     add searching path:
-2016-12-23T02:59:09.634Z - normal: Simulator: 
-2016-12-23T02:59:09.634Z - normal: Simulator: 
-2016-12-23T02:59:09.634Z - normal: Simulator: 
-2016-12-23T02:59:09.635Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:59:09.636Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T02:59:09.636Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:59:09.973Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T02:59:10.052Z - normal: Simulator: iShow!
-2016-12-23T02:59:50.313Z - normal: Compiled successfully
-2016-12-23T02:59:53.771Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T02:59:53.771Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T02:59:53.772Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T02:59:53.828Z - normal: Simulator: Ready for GLSL
-2016-12-23T02:59:53.828Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T02:59:53.829Z - normal: Simulator: 
-2016-12-23T02:59:53.829Z - normal: Simulator: {
-2016-12-23T02:59:53.829Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T02:59:53.829Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T02:59:53.829Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T02:59:53.829Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T02:59:53.830Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T02:59:53.830Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T02:59:53.830Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T02:59:53.830Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T02:59:53.830Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T02:59:53.830Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T02:59:53.830Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T02:59:53.831Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T02:59:53.831Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T02:59:53.831Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T02:59:53.831Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T02:59:53.831Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T02:59:53.832Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T02:59:53.832Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T02:59:53.832Z - normal: Simulator: }
-2016-12-23T02:59:53.834Z - normal: Simulator: 
-2016-12-23T02:59:53.835Z - normal: Simulator: 
-2016-12-23T02:59:53.835Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T02:59:53.835Z - normal: Simulator: Project Config:
-2016-12-23T02:59:53.835Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T02:59:53.835Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T02:59:53.835Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T02:59:53.835Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T02:59:53.836Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T02:59:53.836Z - normal: Simulator:     show console: NO
-2016-12-23T02:59:53.836Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T02:59:53.836Z - normal: Simulator:     listen: 
-2016-12-23T02:59:53.836Z - normal: Simulator:     debugger: none
-2016-12-23T02:59:53.836Z - normal: Simulator:     add searching path:
-2016-12-23T02:59:53.836Z - normal: Simulator: 
-2016-12-23T02:59:53.836Z - normal: Simulator: 
-2016-12-23T02:59:53.837Z - normal: Simulator: 
-2016-12-23T02:59:53.837Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:59:53.837Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T02:59:53.837Z - normal: Simulator: ------------------------------------------------
-2016-12-23T02:59:54.258Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T02:59:54.330Z - normal: Simulator: iShow!
-2016-12-23T02:59:56.343Z - normal: Simulator: getComponent: Type must be non-nil
-2016-12-23T02:59:57.343Z - normal: Simulator: getComponent: Type must be non-nil
-2016-12-23T03:00:01.366Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T03:00:01.366Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T03:00:01.367Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
-2016-12-23T03:00:13.283Z - normal: Compiled successfully
-2016-12-23T03:00:14.635Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:00:14.636Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:00:14.636Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:00:14.691Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:00:14.692Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:00:14.696Z - normal: Simulator: 
-2016-12-23T03:00:14.696Z - normal: Simulator: {
-2016-12-23T03:00:14.696Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:00:14.696Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:00:14.697Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:00:14.697Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:00:14.697Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:00:14.697Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:00:14.697Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:00:14.697Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:00:14.697Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:00:14.698Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:00:14.699Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:00:14.699Z - normal: Simulator: }
-2016-12-23T03:00:14.699Z - normal: Simulator: 
-2016-12-23T03:00:14.699Z - normal: Simulator: 
-2016-12-23T03:00:14.699Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:00:14.702Z - normal: Simulator: Project Config:
-2016-12-23T03:00:14.703Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:00:14.703Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:00:14.704Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:00:14.704Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:00:14.704Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:00:14.704Z - normal: Simulator:     show console: NO
-2016-12-23T03:00:14.705Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:00:14.705Z - normal: Simulator:     listen: 
-2016-12-23T03:00:14.705Z - normal: Simulator:     debugger: none
-2016-12-23T03:00:14.705Z - normal: Simulator:     add searching path:
-2016-12-23T03:00:14.705Z - normal: Simulator: 
-2016-12-23T03:00:14.705Z - normal: Simulator: 
-2016-12-23T03:00:14.705Z - normal: Simulator: 
-2016-12-23T03:00:14.705Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:00:14.706Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:00:14.706Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:00:15.075Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:00:15.129Z - normal: Simulator: iShow!
-2016-12-23T03:00:15.303Z - error: Simulator: 128:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:00:15.304Z - normal: Simulator: 
-2016-12-23T03:00:17.820Z - normal: Simulator: basic_object_finalize 06D315E0 ...
-2016-12-23T03:00:17.820Z - normal: Simulator: jsbindings: finalizing JS object 06D31600 (WebSocket)
-2016-12-23T03:00:17.820Z - normal: Simulator: jsbindings: finalizing JS object 06D31620 (SocketIO)
-2016-12-23T03:00:39.180Z - normal: Compiled successfully
-2016-12-23T03:00:40.200Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:00:40.200Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:00:40.201Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:00:40.262Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:00:40.262Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:00:40.262Z - normal: Simulator: 
-2016-12-23T03:00:40.263Z - normal: Simulator: {
-2016-12-23T03:00:40.263Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:00:40.263Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:00:40.263Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:00:40.263Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:00:40.263Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:00:40.263Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:00:40.264Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:00:40.265Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:00:40.265Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:00:40.266Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:00:40.266Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:00:40.266Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:00:40.266Z - normal: Simulator: }
-2016-12-23T03:00:40.267Z - normal: Simulator: 
-2016-12-23T03:00:40.267Z - normal: Simulator: 
-2016-12-23T03:00:40.267Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:00:40.267Z - normal: Simulator: Project Config:
-2016-12-23T03:00:40.267Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:00:40.267Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:00:40.267Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:00:40.268Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:00:40.268Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:00:40.268Z - normal: Simulator:     show console: NO
-2016-12-23T03:00:40.268Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:00:40.268Z - normal: Simulator:     listen: 
-2016-12-23T03:00:40.268Z - normal: Simulator:     debugger: none
-2016-12-23T03:00:40.268Z - normal: Simulator:     add searching path:
-2016-12-23T03:00:40.269Z - normal: Simulator: 
-2016-12-23T03:00:40.269Z - normal: Simulator: 
-2016-12-23T03:00:40.269Z - normal: Simulator: 
-2016-12-23T03:00:40.272Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:00:40.273Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:00:40.273Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:00:40.703Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:00:40.757Z - normal: Simulator: iShow!
-2016-12-23T03:00:40.889Z - error: Simulator: 128:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:00:40.889Z - normal: Simulator: 
-2016-12-23T03:00:42.847Z - normal: Simulator: basic_object_finalize 064315E0 ...
-2016-12-23T03:00:42.848Z - normal: Simulator: jsbindings: finalizing JS object 06431600 (WebSocket)
-2016-12-23T03:00:42.848Z - normal: Simulator: jsbindings: finalizing JS object 06431620 (SocketIO)
-2016-12-23T03:02:10.261Z - normal: Compiled successfully
-2016-12-23T03:02:11.160Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:02:11.161Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:02:11.162Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:02:11.232Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:02:11.232Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:02:11.232Z - normal: Simulator: 
-2016-12-23T03:02:11.232Z - normal: Simulator: {
-2016-12-23T03:02:11.232Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:02:11.233Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:02:11.233Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:02:11.236Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:02:11.236Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:02:11.237Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:02:11.237Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:02:11.237Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:02:11.237Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:02:11.237Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:02:11.237Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:02:11.238Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:02:11.239Z - normal: Simulator: }
-2016-12-23T03:02:11.240Z - normal: Simulator: 
-2016-12-23T03:02:11.240Z - normal: Simulator: 
-2016-12-23T03:02:11.240Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:02:11.241Z - normal: Simulator: Project Config:
-2016-12-23T03:02:11.241Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:02:11.241Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:02:11.242Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:02:11.242Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:02:11.242Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:02:11.242Z - normal: Simulator:     show console: NO
-2016-12-23T03:02:11.243Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:02:11.243Z - normal: Simulator:     listen: 
-2016-12-23T03:02:11.243Z - normal: Simulator:     debugger: none
-2016-12-23T03:02:11.243Z - normal: Simulator:     add searching path:
-2016-12-23T03:02:11.243Z - normal: Simulator: 
-2016-12-23T03:02:11.244Z - normal: Simulator: 
-2016-12-23T03:02:11.244Z - normal: Simulator: 
-2016-12-23T03:02:11.244Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:02:11.244Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:02:11.244Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:02:11.629Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:02:11.688Z - normal: Simulator: iShow!
-2016-12-23T03:02:11.823Z - error: Simulator: 132:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:02:11.823Z - normal: Simulator: 
-2016-12-23T03:02:13.477Z - normal: Simulator: basic_object_finalize 066315E0 ...
-2016-12-23T03:02:13.478Z - normal: Simulator: jsbindings: finalizing JS object 06631600 (WebSocket)
-2016-12-23T03:02:13.478Z - normal: Simulator: jsbindings: finalizing JS object 06631620 (SocketIO)
-2016-12-23T03:02:36.844Z - error: Error: Can not get asset url by uuid "fbb33c90-3a2b-4581-91c0-b45c9b89db30", the asset may be deleted.
-    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:128:30
-    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+2016-12-23T19:07:06.757Z - normal: Load ~/.CocosCreator/settings.json
+2016-12-23T19:07:06.765Z - normal: checking language setting...
+2016-12-23T19:07:06.765Z - normal: Language: en
+2016-12-23T19:07:07.847Z - success: protocol editor-framework registered
+2016-12-23T19:07:07.847Z - success: protocol app registered
+2016-12-23T19:07:07.847Z - success: protocol packages registered
+2016-12-23T19:07:07.847Z - success: protocol theme registered
+2016-12-23T19:07:07.848Z - success: protocol unpack registerred
+2016-12-23T19:07:09.049Z - normal: connected!
+2016-12-23T19:07:09.053Z - normal: Check project C:\Users\Chris\Documents\GitHub\Mouseterous
+2016-12-23T19:07:09.058Z - normal: Initializing Cocos Creator Editor
+2016-12-23T19:07:09.417Z - normal: Initializing Cocos2d
+2016-12-23T19:07:12.510Z - normal: Initializing Asset Database
+2016-12-23T19:07:12.535Z - success: protocol uuid registerred
+2016-12-23T19:07:12.535Z - success: protocol db registerred
+2016-12-23T19:07:12.535Z - success: protocol thumbnail registerred
+2016-12-23T19:07:12.535Z - normal: Loading editor/builtin packages
+2016-12-23T19:07:12.663Z - success: assets loaded
+2016-12-23T19:07:12.666Z - success: builder loaded
+2016-12-23T19:07:12.669Z - success: hierarchy loaded
+2016-12-23T19:07:12.672Z - success: inspector loaded
+2016-12-23T19:07:12.673Z - success: keystore loaded
+2016-12-23T19:07:12.676Z - success: node-library loaded
+2016-12-23T19:07:12.683Z - success: preferences loaded
+2016-12-23T19:07:12.697Z - success: project-importer loaded
+2016-12-23T19:07:12.699Z - success: project-settings loaded
+2016-12-23T19:07:12.701Z - success: ui-kit loaded
+2016-12-23T19:07:12.703Z - success: ui-grid loaded
+2016-12-23T19:07:12.706Z - success: scene loaded
+2016-12-23T19:07:12.707Z - success: sprite-editor loaded
+2016-12-23T19:07:12.712Z - success: timeline loaded
+2016-12-23T19:07:12.713Z - normal: Loading builtin packages
+2016-12-23T19:07:12.716Z - success: asset-db-debugger loaded
+2016-12-23T19:07:12.717Z - success: code-editor loaded
+2016-12-23T19:07:12.717Z - success: color-picker loaded
+2016-12-23T19:07:12.720Z - success: console loaded
+2016-12-23T19:07:12.722Z - success: package-manager loaded
+2016-12-23T19:07:12.725Z - success: tester loaded
+2016-12-23T19:07:12.727Z - success: ui-kit-preview-extra loaded
+2016-12-23T19:07:12.728Z - success: ui-kit-preview loaded
+2016-12-23T19:07:12.729Z - success: ui-tree loaded
+2016-12-23T19:07:12.834Z - normal: Initializing project C:\Users\Chris\Documents\GitHub\Mouseterous
+2016-12-23T19:07:12.842Z - normal: Loading packages
+2016-12-23T19:07:12.850Z - success: Test loaded
+2016-12-23T19:07:12.850Z - normal: Watching packages
+2016-12-23T19:07:12.870Z - normal: Run Application
+2016-12-23T19:07:13.344Z - success: preview server running at http://localhost:7456
+2016-12-23T19:07:21.028Z - normal: 1.3.3
+2016-12-23T19:07:31.695Z - normal: Compiled successfully
+2016-12-23T19:07:33.565Z - normal: 1.3.3
+2016-12-23T19:07:34.324Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\web-desktop" successfully
+2016-12-23T19:09:05.539Z - error: Build Failed: Error: Cocos Runtime not support module(s): TiledMap, DragonBones.
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:317)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
     at emitTwo (events.js:106:13)
     at EventEmitter.emit (events.js:191:7)
-2016-12-23T03:04:32.009Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:04:32.011Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:04:32.011Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:04:32.066Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:04:32.066Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:04:32.066Z - normal: Simulator: 
-2016-12-23T03:04:32.067Z - normal: Simulator: {
-2016-12-23T03:04:32.067Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:04:32.067Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:04:32.067Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:04:32.067Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:04:32.067Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:04:32.067Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:04:32.067Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:04:32.068Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:04:32.068Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:04:32.068Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:04:32.068Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:04:32.069Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:04:32.069Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:04:32.069Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:04:32.069Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:04:32.069Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:04:32.070Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:04:32.076Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:04:32.076Z - normal: Simulator: }
-2016-12-23T03:04:32.076Z - normal: Simulator: 
-2016-12-23T03:04:32.076Z - normal: Simulator: 
-2016-12-23T03:04:32.076Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:04:32.083Z - normal: Simulator: Project Config:
-2016-12-23T03:04:32.084Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:04:32.084Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:04:32.084Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:04:32.085Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:04:32.085Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:04:32.085Z - normal: Simulator:     show console: NO
-2016-12-23T03:04:32.085Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:04:32.086Z - normal: Simulator:     listen: 
-2016-12-23T03:04:32.086Z - normal: Simulator:     debugger: none
-2016-12-23T03:04:32.086Z - normal: Simulator:     add searching path:
-2016-12-23T03:04:32.100Z - normal: Simulator: 
-2016-12-23T03:04:32.101Z - normal: Simulator: 
-2016-12-23T03:04:32.101Z - normal: Simulator: 
-2016-12-23T03:04:32.101Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:04:32.101Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:04:32.101Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:04:32.444Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:04:32.489Z - normal: Simulator: iShow!
-2016-12-23T03:04:32.620Z - error: Simulator: 132:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:04:32.621Z - normal: Simulator: 
-2016-12-23T03:04:49.496Z - normal: Simulator: basic_object_finalize 063315E0 ...
-2016-12-23T03:04:49.497Z - normal: Simulator: jsbindings: finalizing JS object 06331600 (WebSocket)
-2016-12-23T03:04:49.497Z - normal: Simulator: jsbindings: finalizing JS object 06331620 (SocketIO)
-2016-12-23T03:05:43.985Z - error: Error: Can not get asset url by uuid "fbb33c90-3a2b-4581-91c0-b45c9b89db30", the asset may be deleted.
-    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:128:30
-    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at Object.Ipc.sendToMain (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:5302)
+    at Object.start-task (C:\CocosCreator\resources\app.asar\editor\builtin\builder\main.js:1:650)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:209:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1973
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:315)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
     at emitTwo (events.js:106:13)
     at EventEmitter.emit (events.js:191:7)
-2016-12-23T03:07:17.586Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:07:17.588Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:07:17.588Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:07:17.653Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:07:17.654Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:07:17.654Z - normal: Simulator: 
-2016-12-23T03:07:17.654Z - normal: Simulator: {
-2016-12-23T03:07:17.654Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:07:17.654Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:07:17.655Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:07:17.655Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:07:17.655Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:07:17.655Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:07:17.655Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:07:17.656Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:07:17.656Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:07:17.656Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:07:17.656Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:07:17.656Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:07:17.656Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:07:17.657Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:07:17.657Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:07:17.657Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:07:17.657Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:07:17.657Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:07:17.657Z - normal: Simulator: }
-2016-12-23T03:07:17.657Z - normal: Simulator: 
-2016-12-23T03:07:17.658Z - normal: Simulator: 
-2016-12-23T03:07:17.658Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:07:17.664Z - normal: Simulator: Project Config:
-2016-12-23T03:07:17.675Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:07:17.675Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:07:17.675Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:07:17.675Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:07:17.676Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:07:17.676Z - normal: Simulator:     show console: NO
-2016-12-23T03:07:17.676Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:07:17.676Z - normal: Simulator:     listen: 
-2016-12-23T03:07:17.676Z - normal: Simulator:     debugger: none
-2016-12-23T03:07:17.676Z - normal: Simulator:     add searching path:
-2016-12-23T03:07:17.676Z - normal: Simulator: 
-2016-12-23T03:07:17.677Z - normal: Simulator: 
-2016-12-23T03:07:17.677Z - normal: Simulator: 
-2016-12-23T03:07:17.677Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:07:17.677Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:07:17.677Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:07:18.035Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:07:18.094Z - normal: Simulator: iShow!
-2016-12-23T03:07:18.234Z - error: Simulator: 132:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:07:18.235Z - normal: Simulator: 
-2016-12-23T03:07:20.129Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T03:07:20.129Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T03:07:20.130Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
-2016-12-23T03:07:30.685Z - error: Error: Can not get asset url by uuid "fbb33c90-3a2b-4581-91c0-b45c9b89db30", the asset may be deleted.
-    at C:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:128:30
-    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5427)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at Object.Ipc.sendToMain (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:5302)
+    at Object.start-task (C:\CocosCreator\resources\app.asar\editor\builtin\builder\main.js:1:650)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:209:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+2016-12-23T19:09:26.224Z - normal: Creating native cocos project to  C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-default
+2016-12-23T19:10:03.040Z - error: Build Failed: Error: Failed to create project with exitCode : 14
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14945)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:7252)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1973
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:944
+    at Gulp.doneCallback (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11735)
+    at Gulp.Orchestrator.stop (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:277:22
+    at finish (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:21:8)
+    at cb (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:29:3)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14943)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:7252)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+2016-12-23T19:10:22.652Z - normal: Creating native cocos project to  C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-default
+2016-12-23T19:11:26.339Z - normal: Compiled successfully
+2016-12-23T19:11:28.204Z - normal: 1.3.3
+2016-12-23T19:11:35.747Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-default" successfully
+2016-12-23T19:18:18.969Z - normal: Start to compile native project. Please wait...
+2016-12-23T19:18:18.972Z - normal: The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+2016-12-23T19:18:25.848Z - failed: Error: Compile failed. The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17943)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:7252)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+2016-12-23T19:21:17.857Z - normal: Creating native cocos project to  C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-link
+2016-12-23T19:21:24.341Z - normal: Compiled successfully
+2016-12-23T19:21:26.163Z - normal: 1.3.3
+2016-12-23T19:21:26.733Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-link" successfully
+2016-12-23T19:21:28.672Z - normal: Start to run project
+2016-12-23T19:21:30.726Z - normal: Start to run project. Please wait...
+2016-12-23T19:21:30.726Z - normal: The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+2016-12-23T19:21:30.731Z - error: Error: spawn C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-link\simulator\win32\Mouseterous.exe ENOENT
+    at exports._errnoException (util.js:1008:11)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:182:32)
+    at onErrorNT (internal/child_process.js:348:16)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+    at process.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:199)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:262:26)
+2016-12-23T19:21:36.409Z - normal: Start to compile native project. Please wait...
+2016-12-23T19:21:36.409Z - normal: The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+2016-12-23T19:21:44.010Z - failed: Error: Compile failed. The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17943)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:7252)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+2016-12-23T19:21:53.374Z - normal: Creating native cocos project to  C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-binary
+2016-12-23T19:22:00.508Z - normal: Compiled successfully
+2016-12-23T19:22:02.379Z - normal: 1.3.3
+2016-12-23T19:22:06.599Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-binary" successfully
+2016-12-23T19:22:09.968Z - normal: Start to compile native project. Please wait...
+2016-12-23T19:22:09.969Z - normal: The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+2016-12-23T19:22:16.840Z - failed: Error: Compile failed. The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17943)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:7252)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
+2016-12-23T19:23:28.587Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at o (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:982)
+    at initCocosEnv (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:1698)
+    at initSettings (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2492)
+    at Object.build (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14215)
+    at Gulp.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11367)
+    at module.exports (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at Object.exports.startWithArgs (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11713)
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:899)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
     at emitTwo (events.js:106:13)
     at EventEmitter.emit (events.js:191:7)
-2016-12-23T03:08:12.562Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:08:12.562Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:08:12.563Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:08:12.619Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:08:12.619Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:08:12.620Z - normal: Simulator: 
-2016-12-23T03:08:12.623Z - normal: Simulator: {
-2016-12-23T03:08:12.623Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:08:12.623Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:08:12.624Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:08:12.624Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:08:12.624Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:08:12.625Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:08:12.625Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:08:12.625Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:08:12.625Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:08:12.625Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:08:12.625Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:08:12.625Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:08:12.626Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:08:12.626Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:08:12.626Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:08:12.626Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:08:12.626Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:08:12.626Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:08:12.627Z - normal: Simulator: }
-2016-12-23T03:08:12.627Z - normal: Simulator: 
-2016-12-23T03:08:12.627Z - normal: Simulator: 
-2016-12-23T03:08:12.628Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:08:12.628Z - normal: Simulator: Project Config:
-2016-12-23T03:08:12.628Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:08:12.628Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:08:12.628Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:08:12.640Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:08:12.641Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:08:12.641Z - normal: Simulator:     show console: NO
-2016-12-23T03:08:12.641Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:08:12.641Z - normal: Simulator:     listen: 
-2016-12-23T03:08:12.642Z - normal: Simulator:     debugger: none
-2016-12-23T03:08:12.642Z - normal: Simulator:     add searching path:
-2016-12-23T03:08:12.642Z - normal: Simulator: 
-2016-12-23T03:08:12.642Z - normal: Simulator: 
-2016-12-23T03:08:12.642Z - normal: Simulator: 
-2016-12-23T03:08:12.642Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:08:12.642Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:08:12.643Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:08:12.978Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:08:13.032Z - normal: Simulator: iShow!
-2016-12-23T03:08:13.261Z - error: Simulator: 132:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:08:13.261Z - normal: Simulator: 
-2016-12-23T03:08:15.397Z - normal: Simulator: basic_object_finalize 06F315E0 ...
-2016-12-23T03:08:15.397Z - normal: Simulator: jsbindings: finalizing JS object 06F31600 (WebSocket)
-2016-12-23T03:08:15.397Z - normal: Simulator: jsbindings: finalizing JS object 06F31620 (SocketIO)
-2016-12-23T03:08:47.355Z - normal: Compiled successfully
-2016-12-23T03:08:49.830Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:08:49.830Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:08:49.831Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:08:49.900Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:08:49.901Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:08:49.901Z - normal: Simulator: 
-2016-12-23T03:08:49.901Z - normal: Simulator: {
-2016-12-23T03:08:49.901Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:08:49.902Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:08:49.902Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:08:49.902Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:08:49.902Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:08:49.903Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:08:49.903Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:08:49.903Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:08:49.903Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:08:49.904Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:08:49.904Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:08:49.904Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:08:49.906Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:08:49.906Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:08:49.906Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:08:49.906Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:08:49.907Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:08:49.907Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:08:49.908Z - normal: Simulator: }
-2016-12-23T03:08:49.908Z - normal: Simulator: 
-2016-12-23T03:08:49.908Z - normal: Simulator: 
-2016-12-23T03:08:49.908Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:08:49.908Z - normal: Simulator: Project Config:
-2016-12-23T03:08:49.908Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:08:49.908Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:08:49.909Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:08:49.909Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:08:49.909Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:08:49.909Z - normal: Simulator:     show console: NO
-2016-12-23T03:08:49.909Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:08:49.909Z - normal: Simulator:     listen: 
-2016-12-23T03:08:49.910Z - normal: Simulator:     debugger: none
-2016-12-23T03:08:49.910Z - normal: Simulator:     add searching path:
-2016-12-23T03:08:49.910Z - normal: Simulator: 
-2016-12-23T03:08:49.910Z - normal: Simulator: 
-2016-12-23T03:08:49.910Z - normal: Simulator: 
-2016-12-23T03:08:49.910Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:08:49.910Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:08:49.911Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:08:50.260Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:08:50.319Z - normal: Simulator: iShow!
-2016-12-23T03:08:50.451Z - error: Simulator: 132:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:08:50.451Z - normal: Simulator: 
-2016-12-23T03:08:52.750Z - normal: Simulator: basic_object_finalize 06B315E0 ...
-2016-12-23T03:08:52.751Z - normal: Simulator: jsbindings: finalizing JS object 06B31600 (WebSocket)
-2016-12-23T03:08:52.751Z - normal: Simulator: jsbindings: finalizing JS object 06B31620 (SocketIO)
-2016-12-23T03:09:24.037Z - normal: Compiled successfully
-2016-12-23T03:09:26.103Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:09:26.104Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:09:26.104Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:09:26.174Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:09:26.175Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:09:26.175Z - normal: Simulator: 
-2016-12-23T03:09:26.176Z - normal: Simulator: {
-2016-12-23T03:09:26.176Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:09:26.176Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:09:26.176Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:09:26.176Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:09:26.177Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:09:26.177Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:09:26.177Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:09:26.178Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:09:26.179Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:09:26.179Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:09:26.179Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:09:26.179Z - normal: Simulator: }
-2016-12-23T03:09:26.179Z - normal: Simulator: 
-2016-12-23T03:09:26.179Z - normal: Simulator: 
-2016-12-23T03:09:26.179Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:09:26.180Z - normal: Simulator: Project Config:
-2016-12-23T03:09:26.184Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:09:26.184Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:09:26.185Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:09:26.185Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:09:26.185Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:09:26.185Z - normal: Simulator:     show console: NO
-2016-12-23T03:09:26.185Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:09:26.185Z - normal: Simulator:     listen: 
-2016-12-23T03:09:26.185Z - normal: Simulator:     debugger: none
-2016-12-23T03:09:26.186Z - normal: Simulator:     add searching path:
-2016-12-23T03:09:26.186Z - normal: Simulator: 
-2016-12-23T03:09:26.186Z - normal: Simulator: 
-2016-12-23T03:09:26.186Z - normal: Simulator: 
-2016-12-23T03:09:26.200Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:09:26.200Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:09:26.200Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:09:26.540Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:09:26.593Z - normal: Simulator: iShow!
-2016-12-23T03:09:26.732Z - error: Simulator: 132:ReferenceError: quickPlayOpacity is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:09:26.733Z - normal: Simulator: 
-2016-12-23T03:09:29.895Z - normal: Simulator: basic_object_finalize 06D315E0 ...
-2016-12-23T03:09:29.895Z - normal: Simulator: jsbindings: finalizing JS object 06D31600 (WebSocket)
-2016-12-23T03:09:29.895Z - normal: Simulator: jsbindings: finalizing JS object 06D31620 (SocketIO)
-2016-12-23T03:09:41.303Z - normal: Compiled successfully
-2016-12-23T03:09:42.888Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:09:42.888Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:09:42.889Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:09:42.950Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:09:42.950Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:09:42.950Z - normal: Simulator: 
-2016-12-23T03:09:42.950Z - normal: Simulator: {
-2016-12-23T03:09:42.950Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:09:42.950Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:09:42.951Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:09:42.951Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:09:42.954Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:09:42.954Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:09:42.954Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:09:42.954Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:09:42.954Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:09:42.955Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:09:42.955Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:09:42.955Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:09:42.956Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:09:42.956Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:09:42.956Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:09:42.956Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:09:42.956Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:09:42.956Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:09:42.956Z - normal: Simulator: }
-2016-12-23T03:09:42.957Z - normal: Simulator: 
-2016-12-23T03:09:42.957Z - normal: Simulator: 
-2016-12-23T03:09:42.957Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:09:42.957Z - normal: Simulator: Project Config:
-2016-12-23T03:09:42.957Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:09:42.958Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:09:42.958Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:09:42.958Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:09:42.958Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:09:42.958Z - normal: Simulator:     show console: NO
-2016-12-23T03:09:42.958Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:09:42.959Z - normal: Simulator:     listen: 
-2016-12-23T03:09:42.959Z - normal: Simulator:     debugger: none
-2016-12-23T03:09:42.959Z - normal: Simulator:     add searching path:
-2016-12-23T03:09:42.960Z - normal: Simulator: 
-2016-12-23T03:09:42.960Z - normal: Simulator: 
-2016-12-23T03:09:42.960Z - normal: Simulator: 
-2016-12-23T03:09:42.960Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:09:42.960Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:09:42.972Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:09:43.326Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:09:43.380Z - normal: Simulator: iShow!
-2016-12-23T03:09:46.633Z - normal: Simulator: basic_object_finalize 061315E0 ...
-2016-12-23T03:09:46.633Z - normal: Simulator: jsbindings: finalizing JS object 06131600 (WebSocket)
-2016-12-23T03:09:46.633Z - normal: Simulator: jsbindings: finalizing JS object 06131620 (SocketIO)
-2016-12-23T03:09:57.889Z - normal: Compiled successfully
-2016-12-23T03:12:30.237Z - normal: Compiled successfully
-2016-12-23T03:13:09.943Z - normal: Compiled successfully
-2016-12-23T03:13:45.616Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:13:45.617Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:13:45.617Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:13:45.674Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:13:45.674Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:13:45.686Z - normal: Simulator: 
-2016-12-23T03:13:45.686Z - normal: Simulator: {
-2016-12-23T03:13:45.686Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:13:45.686Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:13:45.687Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:13:45.687Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:13:45.687Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:13:45.687Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:13:45.687Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:13:45.687Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:13:45.687Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:13:45.688Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:13:45.689Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:13:45.689Z - normal: Simulator: }
-2016-12-23T03:13:45.689Z - normal: Simulator: 
-2016-12-23T03:13:45.689Z - normal: Simulator: 
-2016-12-23T03:13:45.689Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:13:45.689Z - normal: Simulator: Project Config:
-2016-12-23T03:13:45.689Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:13:45.689Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:13:45.690Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:13:45.690Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:13:45.690Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:13:45.690Z - normal: Simulator:     show console: NO
-2016-12-23T03:13:45.690Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:13:45.690Z - normal: Simulator:     listen: 
-2016-12-23T03:13:45.690Z - normal: Simulator:     debugger: none
-2016-12-23T03:13:45.690Z - normal: Simulator:     add searching path:
-2016-12-23T03:13:45.691Z - normal: Simulator: 
-2016-12-23T03:13:45.691Z - normal: Simulator: 
-2016-12-23T03:13:45.691Z - normal: Simulator: 
-2016-12-23T03:13:45.693Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:13:45.693Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:13:45.694Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:13:46.079Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:13:46.134Z - normal: Simulator: iShow!
-2016-12-23T03:13:46.264Z - error: Simulator: 140:ReferenceError: Global is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:13:46.264Z - normal: Simulator: 
-2016-12-23T03:13:48.609Z - normal: Simulator: basic_object_finalize 06C315E0 ...
-2016-12-23T03:13:48.610Z - normal: Simulator: jsbindings: finalizing JS object 06C31600 (WebSocket)
-2016-12-23T03:13:48.610Z - normal: Simulator: jsbindings: finalizing JS object 06C31620 (SocketIO)
-2016-12-23T03:15:33.177Z - normal: Compiled successfully
-2016-12-23T03:15:33.283Z - error: Unknown type of MenuButton.Global, property should be defined in "properties" or "ctor"
-    at Object.CCClass [as Class] (C:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:866:20)
-    at Object.require.MenuButton (assets/Main Menu/scripts/MenuButton.js:1)
-    at s (../../../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
-    at e (../../../../../../../CocosCreator/resources/app.asar/node_modules/browser-pack/_prelude.js:1)
-    at file:///C:/Users/Chris/Documents/GitHub/Mouseterous/library/bundle.project.js?016:1:451
-2016-12-23T03:15:57.563Z - normal: Compiled successfully
-2016-12-23T03:15:59.611Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:15:59.612Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:15:59.612Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:15:59.668Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:15:59.668Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:15:59.668Z - normal: Simulator: 
-2016-12-23T03:15:59.668Z - normal: Simulator: {
-2016-12-23T03:15:59.669Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:15:59.672Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:15:59.673Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:15:59.673Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:15:59.673Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:15:59.673Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:15:59.673Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:15:59.674Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:15:59.675Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:15:59.675Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:15:59.675Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:15:59.675Z - normal: Simulator: }
-2016-12-23T03:15:59.675Z - normal: Simulator: 
-2016-12-23T03:15:59.675Z - normal: Simulator: 
-2016-12-23T03:15:59.676Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:15:59.676Z - normal: Simulator: Project Config:
-2016-12-23T03:15:59.676Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:15:59.676Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:15:59.676Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:15:59.677Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:15:59.677Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:15:59.677Z - normal: Simulator:     show console: NO
-2016-12-23T03:15:59.677Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:15:59.677Z - normal: Simulator:     listen: 
-2016-12-23T03:15:59.677Z - normal: Simulator:     debugger: none
-2016-12-23T03:15:59.677Z - normal: Simulator:     add searching path:
-2016-12-23T03:15:59.678Z - normal: Simulator: 
-2016-12-23T03:15:59.678Z - normal: Simulator: 
-2016-12-23T03:15:59.678Z - normal: Simulator: 
-2016-12-23T03:15:59.678Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:15:59.678Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:15:59.678Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:16:00.043Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:16:00.095Z - normal: Simulator: iShow!
-2016-12-23T03:16:00.257Z - error: Simulator: 136:ReferenceError: Global is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:16:00.257Z - normal: Simulator: 
-2016-12-23T03:16:15.506Z - normal: Compiled successfully
-2016-12-23T03:16:16.646Z - normal: Simulator: basic_object_finalize 06A315E0 ...
-2016-12-23T03:16:16.646Z - normal: Simulator: jsbindings: finalizing JS object 06A31600 (WebSocket)
-2016-12-23T03:16:16.646Z - normal: Simulator: jsbindings: finalizing JS object 06A31620 (SocketIO)
-2016-12-23T03:16:18.011Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:16:18.012Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:16:18.012Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:16:18.065Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:16:18.065Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:16:18.065Z - normal: Simulator: 
-2016-12-23T03:16:18.065Z - normal: Simulator: {
-2016-12-23T03:16:18.066Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:16:18.066Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:16:18.070Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:16:18.071Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:16:18.071Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:16:18.071Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:16:18.071Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:16:18.072Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:16:18.072Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:16:18.072Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:16:18.072Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:16:18.073Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:16:18.073Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:16:18.073Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:16:18.073Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:16:18.073Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:16:18.074Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:16:18.074Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:16:18.074Z - normal: Simulator: }
-2016-12-23T03:16:18.074Z - normal: Simulator: 
-2016-12-23T03:16:18.074Z - normal: Simulator: 
-2016-12-23T03:16:18.075Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:16:18.075Z - normal: Simulator: Project Config:
-2016-12-23T03:16:18.075Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:16:18.075Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:16:18.075Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:16:18.076Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:16:18.076Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:16:18.076Z - normal: Simulator:     show console: NO
-2016-12-23T03:16:18.077Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:16:18.077Z - normal: Simulator:     listen: 
-2016-12-23T03:16:18.077Z - normal: Simulator:     debugger: none
-2016-12-23T03:16:18.077Z - normal: Simulator:     add searching path:
-2016-12-23T03:16:18.077Z - normal: Simulator: 
-2016-12-23T03:16:18.077Z - normal: Simulator: 
-2016-12-23T03:16:18.077Z - normal: Simulator: 
-2016-12-23T03:16:18.078Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:16:18.078Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:16:18.078Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:16:18.481Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:16:18.533Z - normal: Simulator: iShow!
-2016-12-23T03:16:18.660Z - error: Simulator: 136:ReferenceError: Global is not defined
-    at a (C:\Users\Chris\Documents\GitHub\Mouseterous\library\bundle.project.js?009:NaN:0)
-2016-12-23T03:16:18.660Z - normal: Simulator: 
-2016-12-23T03:16:20.438Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T03:16:20.438Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T03:16:20.439Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
-2016-12-23T03:16:41.773Z - normal: Compiled successfully
-2016-12-23T03:16:48.765Z - normal: Compiled successfully
-2016-12-23T03:16:49.682Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:16:49.682Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:16:49.682Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:16:49.739Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:16:49.740Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:16:49.740Z - normal: Simulator: 
-2016-12-23T03:16:49.740Z - normal: Simulator: {
-2016-12-23T03:16:49.740Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:16:49.740Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:16:49.740Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:16:49.742Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:16:49.742Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:16:49.742Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:16:49.742Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:16:49.742Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:16:49.742Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:16:49.743Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:16:49.743Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:16:49.743Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:16:49.743Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:16:49.743Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:16:49.744Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:16:49.744Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:16:49.744Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:16:49.744Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:16:49.744Z - normal: Simulator: }
-2016-12-23T03:16:49.744Z - normal: Simulator: 
-2016-12-23T03:16:49.744Z - normal: Simulator: 
-2016-12-23T03:16:49.745Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:16:49.745Z - normal: Simulator: Project Config:
-2016-12-23T03:16:49.745Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:16:49.745Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:16:49.745Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:16:49.745Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:16:49.745Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:16:49.748Z - normal: Simulator:     show console: NO
-2016-12-23T03:16:49.748Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:16:49.748Z - normal: Simulator:     listen: 
-2016-12-23T03:16:49.748Z - normal: Simulator:     debugger: none
-2016-12-23T03:16:49.748Z - normal: Simulator:     add searching path:
-2016-12-23T03:16:49.749Z - normal: Simulator: 
-2016-12-23T03:16:49.749Z - normal: Simulator: 
-2016-12-23T03:16:49.749Z - normal: Simulator: 
-2016-12-23T03:16:49.749Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:16:49.749Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:16:49.749Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:16:50.208Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:16:50.293Z - normal: Simulator: iShow!
-2016-12-23T03:16:55.756Z - normal: Simulator: basic_object_finalize 06A315E0 ...
-2016-12-23T03:16:55.756Z - normal: Simulator: jsbindings: finalizing JS object 06A31600 (WebSocket)
-2016-12-23T03:16:55.756Z - normal: Simulator: jsbindings: finalizing JS object 06A31620 (SocketIO)
-2016-12-23T03:17:38.236Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:17:38.236Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:17:38.237Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:17:38.282Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:17:38.282Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:17:38.282Z - normal: Simulator: 
-2016-12-23T03:17:38.286Z - normal: Simulator: {
-2016-12-23T03:17:38.287Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:17:38.287Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:17:38.287Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:17:38.287Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:17:38.287Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:17:38.287Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:17:38.287Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:17:38.287Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:17:38.288Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:17:38.289Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:17:38.289Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:17:38.290Z - normal: Simulator: }
-2016-12-23T03:17:38.290Z - normal: Simulator: 
-2016-12-23T03:17:38.290Z - normal: Simulator: 
-2016-12-23T03:17:38.290Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:17:38.290Z - normal: Simulator: Project Config:
-2016-12-23T03:17:38.290Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:17:38.291Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:17:38.291Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:17:38.291Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:17:38.291Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:17:38.292Z - normal: Simulator:     show console: NO
-2016-12-23T03:17:38.292Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:17:38.292Z - normal: Simulator:     listen: 
-2016-12-23T03:17:38.292Z - normal: Simulator:     debugger: none
-2016-12-23T03:17:38.292Z - normal: Simulator:     add searching path:
-2016-12-23T03:17:38.292Z - normal: Simulator: 
-2016-12-23T03:17:38.292Z - normal: Simulator: 
-2016-12-23T03:17:38.293Z - normal: Simulator: 
-2016-12-23T03:17:38.293Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:17:38.293Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:17:38.293Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:17:38.737Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:17:38.813Z - normal: Simulator: iShow!
-2016-12-23T03:17:46.685Z - normal: Simulator: basic_object_finalize 06F315E0 ...
-2016-12-23T03:17:46.685Z - normal: Simulator: jsbindings: finalizing JS object 06F31600 (WebSocket)
-2016-12-23T03:17:46.685Z - normal: Simulator: jsbindings: finalizing JS object 06F31620 (SocketIO)
-2016-12-23T03:20:01.917Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:20:01.919Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:20:01.919Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:20:01.977Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:20:01.977Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:20:01.978Z - normal: Simulator: 
-2016-12-23T03:20:01.978Z - normal: Simulator: {
-2016-12-23T03:20:01.978Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:20:01.978Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:20:01.979Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:20:01.979Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:20:01.979Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:20:01.979Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:20:01.979Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:20:01.979Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:20:01.979Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:20:01.979Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:20:01.980Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:20:01.981Z - normal: Simulator: }
-2016-12-23T03:20:01.981Z - normal: Simulator: 
-2016-12-23T03:20:01.981Z - normal: Simulator: 
-2016-12-23T03:20:01.981Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:20:01.986Z - normal: Simulator: Project Config:
-2016-12-23T03:20:01.990Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:20:01.991Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:20:01.991Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:20:01.991Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:20:01.991Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:20:01.991Z - normal: Simulator:     show console: NO
-2016-12-23T03:20:01.992Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:20:01.992Z - normal: Simulator:     listen: 
-2016-12-23T03:20:01.992Z - normal: Simulator:     debugger: none
-2016-12-23T03:20:01.992Z - normal: Simulator:     add searching path:
-2016-12-23T03:20:01.992Z - normal: Simulator: 
-2016-12-23T03:20:01.992Z - normal: Simulator: 
-2016-12-23T03:20:01.993Z - normal: Simulator: 
-2016-12-23T03:20:01.993Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:20:01.993Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:20:01.993Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:20:02.473Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:20:02.555Z - normal: Simulator: iShow!
-2016-12-23T03:20:06.437Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T03:20:06.437Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T03:20:06.438Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
-2016-12-23T03:20:14.974Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:20:14.975Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:20:14.975Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:20:15.023Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:20:15.023Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:20:15.033Z - normal: Simulator: 
-2016-12-23T03:20:15.045Z - normal: Simulator: {
-2016-12-23T03:20:15.045Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:20:15.045Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:20:15.046Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:20:15.046Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:20:15.046Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:20:15.046Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:20:15.046Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:20:15.047Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:20:15.047Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:20:15.048Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:20:15.048Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:20:15.048Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:20:15.048Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:20:15.049Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:20:15.049Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:20:15.049Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:20:15.049Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:20:15.049Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:20:15.050Z - normal: Simulator: }
-2016-12-23T03:20:15.050Z - normal: Simulator: 
-2016-12-23T03:20:15.050Z - normal: Simulator: 
-2016-12-23T03:20:15.050Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:20:15.050Z - normal: Simulator: Project Config:
-2016-12-23T03:20:15.051Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:20:15.051Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:20:15.051Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:20:15.051Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:20:15.051Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:20:15.052Z - normal: Simulator:     show console: NO
-2016-12-23T03:20:15.052Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:20:15.052Z - normal: Simulator:     listen: 
-2016-12-23T03:20:15.052Z - normal: Simulator:     debugger: none
-2016-12-23T03:20:15.052Z - normal: Simulator:     add searching path:
-2016-12-23T03:20:15.052Z - normal: Simulator: 
-2016-12-23T03:20:15.053Z - normal: Simulator: 
-2016-12-23T03:20:15.053Z - normal: Simulator: 
-2016-12-23T03:20:15.053Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:20:15.053Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:20:15.053Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:20:15.402Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:20:15.455Z - normal: Simulator: iShow!
-2016-12-23T03:20:18.430Z - normal: Simulator: basic_object_finalize 06C315E0 ...
-2016-12-23T03:20:18.430Z - normal: Simulator: jsbindings: finalizing JS object 06C31600 (WebSocket)
-2016-12-23T03:20:18.430Z - normal: Simulator: jsbindings: finalizing JS object 06C31620 (SocketIO)
-2016-12-23T03:21:23.902Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:21:23.903Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:21:23.903Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:21:23.960Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:21:23.960Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:21:23.979Z - normal: Simulator: 
-2016-12-23T03:21:23.979Z - normal: Simulator: {
-2016-12-23T03:21:23.979Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:21:23.979Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:21:23.979Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:21:23.980Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:21:23.980Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:21:23.980Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:21:23.980Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:21:23.980Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:21:23.980Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:21:23.980Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:21:23.980Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:21:23.981Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:21:23.981Z - normal: Simulator: }
-2016-12-23T03:21:23.982Z - normal: Simulator: 
-2016-12-23T03:21:23.982Z - normal: Simulator: 
-2016-12-23T03:21:23.982Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:21:23.982Z - normal: Simulator: Project Config:
-2016-12-23T03:21:23.982Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:21:23.983Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:21:23.983Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:21:23.983Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:21:23.983Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:21:23.983Z - normal: Simulator:     show console: NO
-2016-12-23T03:21:23.983Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:21:23.983Z - normal: Simulator:     listen: 
-2016-12-23T03:21:23.984Z - normal: Simulator:     debugger: none
-2016-12-23T03:21:23.984Z - normal: Simulator:     add searching path:
-2016-12-23T03:21:23.984Z - normal: Simulator: 
-2016-12-23T03:21:23.984Z - normal: Simulator: 
-2016-12-23T03:21:23.984Z - normal: Simulator: 
-2016-12-23T03:21:23.984Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:21:23.984Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:21:23.985Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:21:24.320Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:21:24.372Z - normal: Simulator: iShow!
-2016-12-23T03:21:28.921Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T03:21:28.921Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T03:21:28.921Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
-2016-12-23T03:21:56.600Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:21:56.600Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:21:56.601Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:21:56.670Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:21:56.671Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:21:56.671Z - normal: Simulator: 
-2016-12-23T03:21:56.671Z - normal: Simulator: {
-2016-12-23T03:21:56.671Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:21:56.671Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:21:56.671Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:21:56.671Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:21:56.672Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:21:56.672Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:21:56.672Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:21:56.672Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:21:56.672Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:21:56.672Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:21:56.672Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:21:56.672Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:21:56.673Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:21:56.673Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:21:56.673Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:21:56.673Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:21:56.673Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:21:56.673Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:21:56.674Z - normal: Simulator: }
-2016-12-23T03:21:56.674Z - normal: Simulator: 
-2016-12-23T03:21:56.674Z - normal: Simulator: 
-2016-12-23T03:21:56.674Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:21:56.674Z - normal: Simulator: Project Config:
-2016-12-23T03:21:56.674Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:21:56.674Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:21:56.674Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:21:56.675Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:21:56.675Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:21:56.675Z - normal: Simulator:     show console: NO
-2016-12-23T03:21:56.675Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:21:56.675Z - normal: Simulator:     listen: 
-2016-12-23T03:21:56.675Z - normal: Simulator:     debugger: none
-2016-12-23T03:21:56.675Z - normal: Simulator:     add searching path:
-2016-12-23T03:21:56.675Z - normal: Simulator: 
-2016-12-23T03:21:56.676Z - normal: Simulator: 
-2016-12-23T03:21:56.676Z - normal: Simulator: 
-2016-12-23T03:21:56.676Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:21:56.676Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:21:56.676Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:21:57.117Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:21:57.209Z - normal: Simulator: iShow!
-2016-12-23T03:21:59.987Z - normal: Simulator: basic_object_finalize 065315E0 ...
-2016-12-23T03:21:59.987Z - normal: Simulator: jsbindings: finalizing JS object 06531600 (WebSocket)
-2016-12-23T03:21:59.987Z - normal: Simulator: jsbindings: finalizing JS object 06531620 (SocketIO)
-2016-12-23T03:31:45.433Z - normal: Compiled successfully
-2016-12-23T03:32:14.344Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:32:14.345Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:32:14.345Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:32:14.399Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:32:14.399Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:32:14.400Z - normal: Simulator: 
-2016-12-23T03:32:14.400Z - normal: Simulator: {
-2016-12-23T03:32:14.400Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:32:14.400Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:32:14.403Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:32:14.403Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:32:14.403Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:32:14.404Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:32:14.404Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:32:14.405Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:32:14.405Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:32:14.405Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:32:14.405Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:32:14.405Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:32:14.405Z - normal: Simulator: }
-2016-12-23T03:32:14.405Z - normal: Simulator: 
-2016-12-23T03:32:14.405Z - normal: Simulator: 
-2016-12-23T03:32:14.406Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:32:14.406Z - normal: Simulator: Project Config:
-2016-12-23T03:32:14.406Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:32:14.406Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:32:14.406Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:32:14.406Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:32:14.406Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:32:14.406Z - normal: Simulator:     show console: NO
-2016-12-23T03:32:14.407Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:32:14.407Z - normal: Simulator:     listen: 
-2016-12-23T03:32:14.407Z - normal: Simulator:     debugger: none
-2016-12-23T03:32:14.407Z - normal: Simulator:     add searching path:
-2016-12-23T03:32:14.407Z - normal: Simulator: 
-2016-12-23T03:32:14.407Z - normal: Simulator: 
-2016-12-23T03:32:14.407Z - normal: Simulator: 
-2016-12-23T03:32:14.407Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:32:14.408Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:32:14.408Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:32:14.825Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:32:14.876Z - normal: Simulator: iShow!
-2016-12-23T03:32:18.957Z - normal: Simulator: basic_object_finalize 066315E0 ...
-2016-12-23T03:32:18.958Z - normal: Simulator: jsbindings: finalizing JS object 06631600 (WebSocket)
-2016-12-23T03:32:18.958Z - normal: Simulator: jsbindings: finalizing JS object 06631620 (SocketIO)
-2016-12-23T03:32:58.448Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:32:58.448Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:32:58.448Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:32:58.469Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:32:58.469Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:32:58.469Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:32:58.502Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:32:58.502Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:32:58.502Z - normal: Simulator: 
-2016-12-23T03:32:58.503Z - normal: Simulator: {
-2016-12-23T03:32:58.503Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:32:58.503Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:32:58.503Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:32:58.503Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:32:58.504Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:32:58.504Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:32:58.504Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:32:58.505Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:32:58.509Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:32:58.509Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:32:58.510Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:32:58.510Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:32:58.512Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:32:58.512Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:32:58.512Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:32:58.513Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:32:58.513Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:32:58.513Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:32:58.513Z - normal: Simulator: }
-2016-12-23T03:32:58.513Z - normal: Simulator: 
-2016-12-23T03:32:58.513Z - normal: Simulator: 
-2016-12-23T03:32:58.514Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:32:58.514Z - normal: Simulator: Project Config:
-2016-12-23T03:32:58.514Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:32:58.514Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:32:58.514Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:32:58.515Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:32:58.515Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:32:58.515Z - normal: Simulator:     show console: NO
-2016-12-23T03:32:58.515Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:32:58.515Z - normal: Simulator:     listen: 
-2016-12-23T03:32:58.515Z - normal: Simulator:     debugger: none
-2016-12-23T03:32:58.516Z - normal: Simulator:     add searching path:
-2016-12-23T03:32:58.516Z - normal: Simulator: 
-2016-12-23T03:32:58.516Z - normal: Simulator: 
-2016-12-23T03:32:58.516Z - normal: Simulator: 
-2016-12-23T03:32:58.516Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:32:58.516Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:32:58.516Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:32:58.543Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:32:58.543Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:32:58.544Z - normal: Simulator: 
-2016-12-23T03:32:58.544Z - normal: Simulator: {
-2016-12-23T03:32:58.544Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:32:58.544Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:32:58.544Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:32:58.545Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:32:58.545Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:32:58.545Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:32:58.545Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:32:58.546Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:32:58.546Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:32:58.546Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:32:58.546Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:32:58.546Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:32:58.547Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:32:58.547Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:32:58.547Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:32:58.547Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:32:58.547Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:32:58.547Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:32:58.548Z - normal: Simulator: }
-2016-12-23T03:32:58.548Z - normal: Simulator: 
-2016-12-23T03:32:58.548Z - normal: Simulator: 
-2016-12-23T03:32:58.548Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:32:58.548Z - normal: Simulator: Project Config:
-2016-12-23T03:32:58.548Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:32:58.549Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:32:58.549Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:32:58.549Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:32:58.549Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:32:58.550Z - normal: Simulator:     show console: NO
-2016-12-23T03:32:58.550Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:32:58.550Z - normal: Simulator:     listen: 
-2016-12-23T03:32:58.550Z - normal: Simulator:     debugger: none
-2016-12-23T03:32:58.551Z - normal: Simulator:     add searching path:
-2016-12-23T03:32:58.551Z - normal: Simulator: 
-2016-12-23T03:32:58.551Z - normal: Simulator: 
-2016-12-23T03:32:58.551Z - normal: Simulator: 
-2016-12-23T03:32:58.551Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:32:58.551Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:32:58.552Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:32:58.904Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:32:58.918Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:32:58.956Z - normal: Simulator: iShow!
-2016-12-23T03:32:58.984Z - normal: Simulator: iShow!
-2016-12-23T03:32:59.828Z - normal: Simulator: basic_object_finalize 064315E0 ...
-2016-12-23T03:32:59.829Z - normal: Simulator: jsbindings: finalizing JS object 06431600 (WebSocket)
-2016-12-23T03:32:59.829Z - normal: Simulator: jsbindings: finalizing JS object 06431620 (SocketIO)
-2016-12-23T03:33:07.402Z - normal: Simulator: basic_object_finalize 065315E0 ...
-2016-12-23T03:33:07.403Z - normal: Simulator: jsbindings: finalizing JS object 06531600 (WebSocket)
-2016-12-23T03:33:07.403Z - normal: Simulator: jsbindings: finalizing JS object 06531620 (SocketIO)
-2016-12-23T03:33:19.022Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2016-12-23T03:33:19.022Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2016-12-23T03:33:19.022Z - normal: Simulator: FRAME SCALE = 1.00
-2016-12-23T03:33:19.088Z - normal: Simulator: Ready for GLSL
-2016-12-23T03:33:19.088Z - normal: Simulator: Ready for OpenGL 2.0
-2016-12-23T03:33:19.089Z - normal: Simulator: 
-2016-12-23T03:33:19.089Z - normal: Simulator: {
-2016-12-23T03:33:19.089Z - normal: Simulator: 	gl.version: 4.0.0 - Build 10.18.10.4358
-2016-12-23T03:33:19.089Z - normal: Simulator: 	gl.supports_NPOT: true
-2016-12-23T03:33:19.089Z - normal: Simulator: 	cocos2d.x.version: 1.3.3-lite
-2016-12-23T03:33:19.089Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2016-12-23T03:33:19.089Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2016-12-23T03:33:19.089Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.max_texture_size: 16384
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.vendor: Intel
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 4000
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.max_texture_units: 96
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.supports_ETC1: false
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.supports_PVRTC: false
-2016-12-23T03:33:19.090Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2016-12-23T03:33:19.091Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2016-12-23T03:33:19.091Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2016-12-23T03:33:19.091Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2016-12-23T03:33:19.091Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2016-12-23T03:33:19.091Z - normal: Simulator: }
-2016-12-23T03:33:19.091Z - normal: Simulator: 
-2016-12-23T03:33:19.091Z - normal: Simulator: 
-2016-12-23T03:33:19.091Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2016-12-23T03:33:19.092Z - normal: Simulator: Project Config:
-2016-12-23T03:33:19.092Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2016-12-23T03:33:19.092Z - normal: Simulator:     writable path: $(PROJDIR)\
-2016-12-23T03:33:19.092Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2016-12-23T03:33:19.092Z - normal: Simulator:     frame size: 960 x 640
-2016-12-23T03:33:19.092Z - normal: Simulator:     frame scale: 1.00
-2016-12-23T03:33:19.092Z - normal: Simulator:     show console: NO
-2016-12-23T03:33:19.092Z - normal: Simulator:     write debug log: NO ()
-2016-12-23T03:33:19.092Z - normal: Simulator:     listen: 
-2016-12-23T03:33:19.093Z - normal: Simulator:     debugger: none
-2016-12-23T03:33:19.093Z - normal: Simulator:     add searching path:
-2016-12-23T03:33:19.093Z - normal: Simulator: 
-2016-12-23T03:33:19.093Z - normal: Simulator: 
-2016-12-23T03:33:19.093Z - normal: Simulator: 
-2016-12-23T03:33:19.094Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:33:19.094Z - normal: Simulator: LOAD Js FILE: main.js
-2016-12-23T03:33:19.094Z - normal: Simulator: ------------------------------------------------
-2016-12-23T03:33:19.548Z - normal: Simulator: Cocos2d-JS v3.13
-2016-12-23T03:33:19.629Z - normal: Simulator: iShow!
-2016-12-23T03:33:22.767Z - normal: Simulator: basic_object_finalize 06E315E0 ...
-2016-12-23T03:33:22.767Z - normal: Simulator: jsbindings: finalizing JS object 06E31600 (WebSocket)
-2016-12-23T03:33:22.767Z - normal: Simulator: jsbindings: finalizing JS object 06E31620 (SocketIO)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1973
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:944
+    at Gulp.doneCallback (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11735)
+    at Gulp.Orchestrator.stop (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:277:22
+    at finish (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:21:8)
+    at cb (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:29:3)
+    at C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14285
+    at initSettings (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2525)
+    at Object.build (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14215)
+    at Gulp.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11367)
+    at module.exports (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+2016-12-23T19:23:31.789Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at o (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:982)
+    at initCocosEnv (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:1698)
+    at initSettings (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2492)
+    at Object.build (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14215)
+    at Gulp.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11367)
+    at module.exports (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at Object.exports.startWithArgs (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11713)
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:899)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1973
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:944
+    at Gulp.doneCallback (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11735)
+    at Gulp.Orchestrator.stop (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:277:22
+    at finish (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:21:8)
+    at cb (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:29:3)
+    at C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14285
+    at initSettings (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2525)
+    at Object.build (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14215)
+    at Gulp.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11367)
+    at module.exports (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+2016-12-23T19:23:44.878Z - normal: Compiled successfully
+2016-12-23T19:23:46.744Z - normal: 1.3.3
+2016-12-23T19:23:47.434Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\web-desktop" successfully
+2016-12-23T19:25:00.354Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at o (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:982)
+    at initCocosEnv (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:1698)
+    at initSettings (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2492)
+    at Object.build (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14215)
+    at Gulp.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11367)
+    at module.exports (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at Object.exports.startWithArgs (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11713)
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:899)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1973
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:944
+    at Gulp.doneCallback (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11735)
+    at Gulp.Orchestrator.stop (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:277:22
+    at finish (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:21:8)
+    at cb (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:29:3)
+    at C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14285
+    at initSettings (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2525)
+    at Object.build (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:14215)
+    at Gulp.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:11367)
+    at module.exports (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (C:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+2016-12-23T19:25:29.052Z - normal: Creating native cocos project to  C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-default
+2016-12-23T19:26:35.893Z - normal: Button clicked!
+2016-12-23T19:26:37.695Z - normal: Button clicked!
+2016-12-23T19:26:42.552Z - normal: Hello World!
+2016-12-23T19:27:07.503Z - normal: Compiled successfully
+2016-12-23T19:27:09.488Z - normal: 1.3.3
+2016-12-23T19:27:13.653Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-default" successfully
+2016-12-23T19:27:22.549Z - error: Build Failed: Error: Cocos Runtime not support module(s): TiledMap, DragonBones.
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:317)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at Object.Ipc.sendToMain (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:5302)
+    at Object.start-task (C:\CocosCreator\resources\app.asar\editor\builtin\builder\main.js:1:650)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:209:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1973
+    at _doBuild (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:315)
+    at EventEmitter.build (C:\CocosCreator\resources\app.asar\editor\core\builder.js:1:1940)
+    at EventEmitter.<anonymous> (C:\CocosCreator\resources\app.asar\editor\init.js:1:10814)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at _main2main (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2285)
+    at Object.Ipc.sendToMain (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:5302)
+    at Object.start-task (C:\CocosCreator\resources\app.asar\editor\builtin\builder\main.js:1:650)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:209:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+2016-12-23T19:27:32.956Z - normal: Compiled successfully
+2016-12-23T19:27:34.870Z - normal: 1.3.3
+2016-12-23T19:27:35.554Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\runtime" successfully
+2016-12-23T19:27:46.891Z - normal: Compiled successfully
+2016-12-23T19:27:48.783Z - normal: 1.3.3
+2016-12-23T19:27:49.265Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\runtime" successfully
+2016-12-23T21:34:29.861Z - normal: Compiled successfully
+2016-12-23T21:34:35.236Z - normal: 1.3.3
+2016-12-23T21:34:41.946Z - normal: Built to "C:\Users\Chris\Documents\GitHub\Mouseterous\build\jsb-default" successfully
+2016-12-23T21:34:45.961Z - normal: Start to compile native project. Please wait...
+2016-12-23T21:34:45.961Z - normal: The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+2016-12-23T21:34:52.457Z - failed: Error: Compile failed. The log file path [ C:\Users\Chris\.CocosCreator\logs\native.log ]
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17943)
+    at ChildProcess.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:7252)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:852:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)

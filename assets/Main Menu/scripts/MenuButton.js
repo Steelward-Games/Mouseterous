@@ -69,6 +69,7 @@ cc.Class({
         this.setOpacity();
     },
     
+    
     multiplayerClick: function () {
         this.quickPlayOpacity = 0;
         this.campaignOpacity = 0;
@@ -77,4 +78,11 @@ cc.Class({
         this.hotSeatOpacity = 255,
         this.setOpacity();
     },
+    quickPlayClick: function () {
+        cc.director.loadScene('QuickPlay');
+    },
+    campaignClick: function () {
+        
+    },
+    
 });

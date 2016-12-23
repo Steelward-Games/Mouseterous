@@ -1,5 +1,5 @@
 cc.Class({
-    "extends": cc.Component,
+    'extends': cc.Component,
 
     properties: {
         // foo: {
@@ -13,23 +13,23 @@ cc.Class({
         // },
         // ...
         quickPlayButton: {
-            "default": null,
+            'default': null,
             type: cc.Node
         },
         campaignButton: {
-            "default": null,
+            'default': null,
             type: cc.Node
         },
         battleButton: {
-            "default": null,
+            'default': null,
             type: cc.Node
         },
         coOpButton: {
-            "default": null,
+            'default': null,
             type: cc.Node
         },
         hotSeatButton: {
-            "default": null,
+            'default': null,
             type: cc.Node
         },
         quickPlayOpacity: 0,
@@ -69,5 +69,10 @@ cc.Class({
         this.campaignOpacity = 0;
         this.battleOpacity = 255;
         this.coOpOpacity = 255, this.hotSeatOpacity = 255, this.setOpacity();
-    }
+    },
+    quickPlayClick: function quickPlayClick() {
+        cc.director.loadScene('QuickPlay');
+    },
+    campaignClick: function campaignClick() {}
+
 });
