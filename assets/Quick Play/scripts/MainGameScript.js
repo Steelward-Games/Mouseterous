@@ -1,6 +1,6 @@
 cc.Class({
     extends: cc.Component,
-
+    
     properties: {
         // foo: {
         //    default: null,      // The default value will be used only when the component attaching
@@ -12,51 +12,58 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        tilePrefab: {
+        dirtTile1Prefab: {
             default: null,
             type: cc.Prefab
         },
+        dirtTile2Prefab: {
+            default: null,
+            type: cc.Prefab
+        },
+        brickTile1Prefab: {
+            default: null,
+            type: cc.Prefab
+        },
+        brickTile2Prefab: {
+            default: null,
+            type: cc.Prefab
+        },
+        tileIDs : [],
         x0 : -420,
         y0 : -320,
     },
-
     // use this for initialization
     onLoad: function () {
-        this.loadJson();
+        this.tileIDs = [this.brickTile1Prefab,this.brickTile2Prefab,this.dirtTile1Prefab,this.dirtTile2Prefab];
         this.createMap();
     },
-    loadJson: function(){
-    var url = cc.url.raw( 'resources/map/Map1.json' );  
-    var myJSON = cc.loader.load(url);
-    cc.log(JSON.stringify(myJSON));
-    },
+    
     createMap: function(){
         var url = cc.url.raw( 'resources/map/Map1.json' );
-        cc.loader.load( url, function( err, res)
-        {
-            cc.log(cc.director.getScene());
+        var self = this;
+        cc.loader.load( url, function(err,res){
+            cc.log(self.x0);
             cc.log(res.width);
-            var tileIDs = [];
-            for(var exKey in res.tilesets[0].tiles){
-                tileIDs.push(res.tilesets[0].tiles[exKey].image);
-            }
-            
+            var counter = 0;
             for(var i = res.height -1; i  >= 0; i--){
-                for(var j = res.width -1; j >= 0; j--){
-                    var newTile = cc.instantiate(cc.director.getScene().tilePrefab);
-                    cc.director.getScene().addChild(newTile);
-                    cc.director.getScene().updateTilePosition(i,j,newTile);
+                for(var j = 0; j < res.width; j++){
+                    cc.log()
+                    var newTile = cc.instantiate(self.tileIDs[res.layers[0].data[counter]-1]);
+                    self.node.addChild(newTile);
+                    self.updateTilePosition(j,i,newTile);
+                    counter++
                 }
             }
         });
-
     },
+    
+
     updateTilePosition: function(xPos, yPos, tile) {
         tile.setPosition(cc.p(xPos*100 + this.x0, yPos*100 + this.y0));
     },
 
     // called every frame, uncomment this function to activate update callback
-    // update: function (dt) {
-
-    // },
+    //update: function (dt) {
+    //    cc.log(cat)
+    //},
 });
